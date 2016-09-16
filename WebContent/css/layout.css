@@ -1,0 +1,25 @@
+html{
+height: 100%;
+width: 100%;
+}
+
+h1 {
+	color: black;
+	font-size: 30px;
+	font-family: Lucida console; margin : auto;
+}
+
+.main {
+	width: 500px;
+	margin: auto;
+	float: center;
+}
+
+table {
+    width:100%;
+}
+
+table#t01 th	{
+    background-color: black;
+    color: white;
+}
